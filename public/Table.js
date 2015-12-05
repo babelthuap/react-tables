@@ -33,4 +33,3 @@ class Table extends React.Component {
 }
 
 export default Table;
-// {this.props.data}

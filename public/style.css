@@ -1,1 +1,11 @@
-.green { color: green; }
+.green {
+  color: green;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #000;
+}
